@@ -4,6 +4,15 @@
     --color-fondo-tarjetas-header-desktop: rgb(255, 255, 255);
     --color-fondo-footer-navbar-mobile: rgb(34, 30, 28);
     --color-fondo-inputs-botones-sociales-footer: rgb(48, 43, 40);
+
+    --color-primario-botones-acentos-linkactivo: rgb(184, 92, 56);
+    --color-primario-oscuro-banner: rgb(142, 64, 36);
+    --color-texto-principal-titulos: rgb(34, 30, 28);
+    --color-subtitulos-hero: rgb(58, 49, 44);
+    --color-texto-parrafos-navegacion: rgb(92, 83, 76);
+    --color-texto-secundario-tarjetas: rgb(105, 95, 87);
+    --color-texto-claro-footer-sidebar-mobile: rgb(235, 228, 218);
+    --color-texto-secundario-footer: rgb(194, 184, 172);
 }
 
 body {
