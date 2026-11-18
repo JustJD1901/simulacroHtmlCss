@@ -1,3 +1,36 @@
 :root {
-    
+    --color-fondo-principal: rgb(248, 245, 240);
+    --color-fondo-secundario: rgb(239, 233, 224);
+    --color-fondo-tarjetas-header-desktop: rgb(255, 255, 255);
+    --color-fondo-footer-navbar-mobile: rgb(34, 30, 28);
+    --color-fondo-inputs-botones-sociales-footer: rgb(48, 43, 40);
 }
+
+body {
+    background-color: var(--color-fondo-principal);
+}
+
+#soluciones {
+    background-color: var(--color-fondo-secundario);
+}
+
+article {
+    background-color: var(--color-fondo-tarjetas-header-desktop);
+
+}
+
+header,
+footer {
+    background-color: var(--color-fondo-footer-navbar-mobile);
+}
+
+footer input,
+footer a {
+    background-color: var(--color-fondo-inputs-botones-sociales-footer);
+}
+
+/*=====Color Fondo Header Media Query 768px=====
+header {
+    background-color: var(--color-fondo-tarjetas-header-desktop);
+}
+*/
